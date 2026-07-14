@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Satish Thapak
+# Satish Thapak
 
 ### Technical Lead | DevOps Engineer | Cloud & Automation Enthusiast
 
